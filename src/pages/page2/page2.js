@@ -1,0 +1,1 @@
+document.write('\n这是page2引入的js')
